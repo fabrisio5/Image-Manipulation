@@ -5,6 +5,7 @@ Features
 - Resize: Resizes images by a specified percentage.
 - Overlay Images: Combines multiple images with edge detection and resizing.
 - Crop Top Half: Crops the top half of an image.
+
 Requirements
 - Python 3.x
 - Pillow library (Python Imaging Library)
